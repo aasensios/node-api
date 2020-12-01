@@ -1,5 +1,15 @@
 # node-api
+
 REST API with JWT Authentication build with Node.js + Express.js and writen in TypeScript
+
+## Usage
+
+```bash
+npm install
+npm start
+```
+
+## Description
 
 Tiny project made by following these two tutorials from [Dev Ed's Youtube channel](https://www.youtube.com/c/DevEd):
 
